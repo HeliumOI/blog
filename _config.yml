@@ -111,3 +111,6 @@ search:
 
 sitemap:
     path: sitemap.xml
+
+admin:
+  deployCommand: ./deploy.sh
