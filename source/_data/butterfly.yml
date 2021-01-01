@@ -40,7 +40,8 @@ copy:
 social:
    fab fa-github: https://github.com/keepthethink || Github
    fas fa-envelope: mailto:sophonci117@gmail.com || Email
-   #fab fa-book: https://www.zhihu.com/people/heliumoi
+   fas fa-code: https://www.luogu.com.cn/user/132435 || Luogu
+   fab fa-zhihu: https://www.zhihu.com/people/heliumoi || Zhihu
 
 # search (搜索)
 # --------------------------------------
