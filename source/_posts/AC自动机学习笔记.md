@@ -2,8 +2,8 @@
 title: AC自动机学习笔记
 id: ac-automaton-note
 tags:
-  - 数据结构
-  - 平衡树
+  - 字符串
+  - AC自动机
 categories:
   - 学习笔记
 abbrlink: 915640971
@@ -52,11 +52,15 @@ $fail_u$的定义为，Tire树内所有字符串的所有前缀中，后缀匹�
 
 （图中不同颜色的边代表字符）
 
-![fail指针](https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/AC_fail1.jpg)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/AC_fail1.jpg" alt="fail指针" width='50%' height='50%'/>
+</p>
 
 如图，节点$i$与节点$j$的后缀匹配最长，所以$fail_i = j$
 
-![fail指针](https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/AC_fail2.jpg)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/AC_fail2.jpg" alt="fail指针" width='50%' height='50%'/>
+</p>
 
 如图，$fail_i = j$，则$i$的粉色子节点（此处用颜色表示字符）必然也与$j$的粉色子节点有最长的后缀，因此该子节点的$fail$指针就是$k$
 
