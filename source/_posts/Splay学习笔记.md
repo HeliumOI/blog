@@ -4,6 +4,7 @@ id: splay-note
 tags:
   - 数据结构
   - 平衡树
+  - Splay
 categories:
   - 学习笔记
 abbrlink: 1401793044
