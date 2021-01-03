@@ -42,6 +42,7 @@ social:
    fas fa-envelope: mailto:sophonci117@gmail.com || Email
    fas fa-code: https://www.luogu.com.cn/user/132435 || Luogu
    fab fa-zhihu: https://www.zhihu.com/people/heliumoi || Zhihu
+   fab fa-telegram: https://t.me/SophonCI || Telegram
 
 # search (搜索)
 # --------------------------------------
@@ -607,7 +608,7 @@ aside:
     button:
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/keepthethink
+      link: https://github.com/HeliumOI
   card_announcement:
     enable: false
     content: 面对我们的骨灰，高尚的人们将洒下热泪
