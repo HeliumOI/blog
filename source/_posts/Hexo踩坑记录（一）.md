@@ -149,7 +149,7 @@ INFO  114 files generated in 1.74 s
 按照这里面的大牛的说法，这是Node.js 14的一个兼容性问题，Sophon酱使用的版本是这样的：
 
 ```
-mike@MacBook-Pro ~/hexo $ hexo version                                      [15:14:07]
+sophon@MacBook-Pro ~/hexo $ hexo version                                      [15:14:07]
 INFO  Validating config
 hexo: 5.0.1
 hexo-cli: 4.2.0
