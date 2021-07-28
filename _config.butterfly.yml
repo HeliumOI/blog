@@ -130,20 +130,18 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    #- https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/0072Vf1pgy1foxk7gif9vj31hc0u0nje.jpg
-    #- https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/0072Vf1pgy1foxkczbww6j31hc0u0tod.jpg
-    #- https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/0072Vf1pgy1foxkj1cgi7j31hc0u0n9m.jpg
-    #- https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/0072Vf1pgy1foxlholn3ej31hc0u0qnp.jpg
-    #- https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/0072Vf1pgy1foxlogttvbj31hc0u0dyf.jpg
-    #- https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/87c01ec7gy1fs5dmi0fs1j21hc0u0npd.jpg
-    - https://img.paulzzh.tech/touhou/random?1
-    - https://img.paulzzh.tech/touhou/random?2
-    - https://img.paulzzh.tech/touhou/random?3
-    - https://img.paulzzh.tech/touhou/random?4
-    - https://img.paulzzh.tech/touhou/random?5
-    - https://img.paulzzh.tech/touhou/random?6
-    - https://img.paulzzh.tech/touhou/random?7
-    - https://img.paulzzh.tech/touhou/random?8
+    - https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/a15b4afely1fnt9prjo76j21hc0u0jzb.jpg
+    - https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/a15b4afegy1fmvjnab7dhj21hc0u0nem.jpg
+    - https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/0072Vf1pgy1fodqn0wgicj31hc0xcaxb.jpg
+    - https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/0072Vf1pgy1foxlholn3ej31hc0u0qnp.jpg
+    - https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/0072Vf1pgy1foxlogttvbj31hc0u0dyf.jpg
+    - https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/0072Vf1pgy1foxk7gif9vj31hc0u0nje.jpg
+    - https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/0072Vf1pgy1foxkczbww6j31hc0u0tod.jpg
+    - https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/0072Vf1pgy1foxkj1cgi7j31hc0u0n9m.jpg
+    - https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/a15b4afegy1fmvj9s3872j21hc0u0k5v.jpg
+    - https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/87c01ec7gy1fs5dmi0fs1j21hc0u0npd.jpg
+    - https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/34844544_p0.jpg
+    #- https://img.paulzzh.tech/touhou/random
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
