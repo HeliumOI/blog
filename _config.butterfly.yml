@@ -43,7 +43,7 @@ social:
    fas fa-code: https://www.luogu.com.cn/user/132435 || Luogu
    fab fa-zhihu: https://www.zhihu.com/people/heliumoi || Zhihu
    fab fa-telegram: https://t.me/SophonCI || Telegram
-   fab qq: https://wpa.qq.com/msgrd?v=3&uin=973178675&site=qq&menu=yes || QQ
+   #fab fa-qq: https://wpa.qq.com/msgrd?v=3&uin=973178675&site=qq&menu=yes || QQ
 
 # search (搜索)
 # --------------------------------------
@@ -752,7 +752,7 @@ instantpage: true
 # https://github.com/vinta/pangu.js
 # Insert a space between Chinese character and English character (中英文之間添加空格)
 pangu:
-  enable: false
+  enable: true
   field: site # site/post
 
 # Lazyload (圖片懶加載)
