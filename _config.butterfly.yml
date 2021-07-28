@@ -122,8 +122,8 @@ category_img:
 
 cover:
   # display the cover or not (是否顯示文章封面)
-  index_enable: true
-  aside_enable: true
+  index_enable: false
+  aside_enable: false
   archives_enable: true
   # the position of cover in home page (封面顯示的位置)
   # left/right/both
@@ -136,7 +136,7 @@ cover:
     #- https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/0072Vf1pgy1foxlholn3ej31hc0u0qnp.jpg
     #- https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/0072Vf1pgy1foxlogttvbj31hc0u0dyf.jpg
     #- https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/87c01ec7gy1fs5dmi0fs1j21hc0u0npd.jpg
-    - https://img.paulzzh.tech/touhou/random??1
+    - https://img.paulzzh.tech/touhou/random?1
     - https://img.paulzzh.tech/touhou/random?2
     - https://img.paulzzh.tech/touhou/random?3
     - https://img.paulzzh.tech/touhou/random?4
