@@ -390,13 +390,13 @@ footer:
   owner:
     enable: true
     since: 2020
-  custom_text: 从废墟中站起，社会主义世界共和国！
+  custom_text: 从废墟中站起，社会主义世界共和国！<br><img style="width:23px;height:23px;" src="/images/icon120.png"><a href="https://icp.gov.moe" target="_blank">萌ICP备 </a><a href="https://icp.gov.moe/?keyword=20210714" target="_blank"> 20210714号</a>
   copyright: true # Copyright of theme and framework
   ICP: # Chinese ICP License
     enable: false
-    url:
-    text:
-    icon: /img/icp.png
+    url: https://icp.gov.moe/?keyword=20210714
+    text: 萌ICP备 20210714号
+    icon: /images/icon120.png
 
 # Analysis
 # --------------------------------------
