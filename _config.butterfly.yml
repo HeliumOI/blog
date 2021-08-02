@@ -93,7 +93,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://cdn.jsdelivr.net/gh/HeliumOI/HeliumOI.github.io@latest/images/avatar1.jpg
+  img: https://cdn.jsdelivr.net/gh/HeliumOI/imghost@latest/avatar1.jpg
   effect: false
 
 # the banner image of home page
