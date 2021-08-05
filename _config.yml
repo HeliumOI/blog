@@ -104,6 +104,8 @@ deploy:
   type:  git
   repository:  git@github.com:heliumoi/heliumoi.github.io.git
   branch:  master
+  name:  HeliumOI
+  email:  sophonci117@gmail.com
 
 search:
   path: search.xml
