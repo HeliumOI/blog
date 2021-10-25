@@ -1,6 +1,5 @@
 ---
 title: 五分钟理解什么是 Monad
-date: 2021-09-11 15:20:37
 tags:
   - Haskell
   - 范畴论
@@ -9,6 +8,8 @@ tags:
   - Monad
 categories:
   - 学习笔记
+abbrlink: 756150797
+date: 2021-09-11 15:20:37
 ---
 
 ## 引言
