@@ -1,5 +1,5 @@
 ---
-title: Codeforces Round
+title: Codeforces Round 756 (Div. 3) 解题报告
 tags:
   - 构造
   - 贪心
