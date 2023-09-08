@@ -10,4 +10,4 @@
 
 这是我博客的源码，基于 Hexo 构建，使用 GitHub Actions 自动部署至 GitHub Pages。
 
-你可以通过 [sophonci117.me](https://sophonci117.me) 访问我的博客。
+你可以通过 [heliumoi.github.io](https://heliumoi.github.io) 访问我的博客。
