@@ -22,7 +22,7 @@ jobs:
           ref: master
           path: themes/butterfly
 
-      # 这里用的是 Node.js 12.x
+      # 这里用的是 Node.js 14.x
       - name: Set up Node.js
         uses: actions/setup-node@v1
         with:
